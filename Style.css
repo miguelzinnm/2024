@@ -1,10 +1,15 @@
 @charset "UTF-8";
 
-body{
-  background-color: redrgb(180, 0, 0);
-  color: purplergb(121, 9, 99) ;
-  font-size: 12 pt ;
-  font-family: Arial ;
+body
+{
+background-color: black;
+color: red;
+font-size: 12pt;
+font-family:Arial;
 }
-h{
-  color:rgb(0,0,0)}
+
+h1
+{
+  color: write;
+  font-size: 20pt;
+}
