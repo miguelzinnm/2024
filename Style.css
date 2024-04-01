@@ -1,15 +1,45 @@
 @charset "UTF-8";
 
-body
+ body 
 {
-background-color: purple;
-color: yelow;
-font-size: 12pt;
-font-family:Arial;
+        background-color: red ;
+  background-image: linear-gradient(to right, red, yellow);
+}
+ div {
+  background-color: black;
+  margin: 0px;
+  height: 160%;
+  color: rgb(255,255,255);
+  text-align: center;
+  font-size: 300%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h1
-{
-  color: write;
-  font-size: 20pt;
+p {
+
+  color:  rgb(0, 0, 0);
+  text-align: center;
+  font-size: 180%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;
+}
+
+li {
+ color:  rgb(0, 0, 0);
+  text-align: center;
+    text-decoration: none;
+  font-size: 160%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+
+        a {
+         color:  rgb(0, 0, 0);
+          text-align: center;
+           text-decoration: none;
+  font-size: 130%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+
+img {
+ text-align: center;
 }
